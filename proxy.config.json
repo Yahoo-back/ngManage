@@ -1,0 +1,12 @@
+{
+  "/apidata": {
+    "target": "https://www.tianqiapi.com/api/",
+    "secure": false,
+    "logLevel": "debug",
+    "changeOrigin": true,
+    "pathRewrite": {
+      "^/apidata": ""
+    }
+
+  }
+}
